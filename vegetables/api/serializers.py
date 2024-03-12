@@ -5,4 +5,4 @@ from ..models import Vegetable
 class VegetableSerializer(serializers.ModelSerializer):
     class Meta:
         model = Vegetable
-        fields = ["id", "name", "proximity", "blocked"]
+        fields = ["id", "name", "blocked"]
