@@ -9,4 +9,4 @@ class MonthApiViewSet(ModelViewSet):
     serializer_class = MonthSerializer
 
     queryset = Month.objects.all()
-    lookup_field = "slug"
+    lookup_field = "id"
