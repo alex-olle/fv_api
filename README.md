@@ -8,7 +8,7 @@
   <h3 align="center">Fruites i Verdures API</h3>
 
   <p align="center">
-  An API to know the seasonal fruits and vegetables from Catalunya
+  The Fruites i Verdures de Catalunya API promotes healthy eating and supports local farmers by providing real-time updates on available produce.
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
