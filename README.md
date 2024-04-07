@@ -103,8 +103,8 @@ _Once the repository is cloned, installed and the server is running, please refe
 
 ## Roadmap
 
-- [] Publish DB
-- [] Publish API
+- [x] Publish DB
+- [ ] Publish API
 
 See the [open issues](https://github.com/alex-olle/fv_api/issues) for a full list of proposed features (and known issues).
 
