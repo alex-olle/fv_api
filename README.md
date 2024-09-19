@@ -10,11 +10,9 @@
   <p align="center">
   The Fruites i Verdures de Catalunya API promotes healthy eating and supports local farmers by providing real-time updates on available produce.
     <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
+    <a href="https://fv-api-wild-star-7655.fly.dev/redocs/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Website</a>
-    ·
     <a href="https://github.com/alex-olle/fv_api/issues">Report Bug</a>
     ·
     <a href="https://github.com/alex-olle/fv_api/issues">Request Feature</a>
@@ -95,7 +93,7 @@ Our Catalonia Seasonal Fruits and Vegetables API is an innovative tool that prov
 
 ## Usage
 
-_Once the repository is cloned, installed and the server is running, please refer to the [Documentation](http://127.0.0.1:8000/redocs/)_
+_Once the repository is cloned, installed and the server is running, please refer to the [Documentation](https://fv-api-wild-star-7655.fly.dev/redocs/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
